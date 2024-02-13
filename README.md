@@ -23,5 +23,4 @@ Revisions new to this update:
 -	Internal housekeeping to optimize functionality from USB software updates to internal communication processing.
 
 Note: Updated [DMX Charts](https://www.chauvetprofessional.com/wp-content/uploads/2021/09/Color-STRIKE-M_DMX_Chart_Rev7.pdf) and [User Manual](https://www.chauvetprofessional.com/wp-content/uploads/2021/09/Color_STRIKE_M_UM_Rev12.pdf) are available on the website.
- main
 
