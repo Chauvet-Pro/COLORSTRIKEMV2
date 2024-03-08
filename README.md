@@ -1,7 +1,10 @@
 # COLORSTRIKEMV2
 
-[Version 4.0.0](https://github.com/Chauvet-Pro/COLORSTRIKEMV2/blob/e57f05366d8f4443292547eed944bc5aa45f9235/Firmware/V4_0_0_01-15-2024_Color%20Strike%20M.zip) introduces new feature updates
-Revisions new to this update:
+[Version 4.0.3](https://github.com/Chauvet-Pro/COLORSTRIKEMV2/blob/8411d303a57775e7d5fb10c1775df3a52526bd80/Firmware/Color%20Strike%20M_V4.0.3.zip)
+- Fixed IGMP subscription issue
+
+[Version 4.0.0](https://github.com/Chauvet-Pro/COLORSTRIKEMV2/blob/e57f05366d8f4443292547eed944bc5aa45f9235/Firmware/V4_0_0_01-15-2024_Color%20Strike%20M.zip) introduces new feature updates:
+
 -	New 68CH Personality – Make cloning shows utilizing other fixtures easier. Especially useful for one-off/festival performances.
 
 -	Added “Enable Bump Flash” function to the menu
