@@ -2,7 +2,7 @@
 
 ## Software Versions
 
-[V4.0.5](https://github.com/Chauvet-Pro/COLORSTRIKEMV2/blob/03188c18d6a1190fed321cab7a5c6c544351a7a8/Firmware/V4.0.5.zip)
+[Version 4.0.5](https://github.com/Chauvet-Pro/COLORSTRIKEMV2/blob/03188c18d6a1190fed321cab7a5c6c544351a7a8/Firmware/V4.0.5.zip)
 - Fixed bug with Beam FX not working correctly in 30CH Mode
 
 [Version 4.0.3](https://github.com/Chauvet-Pro/COLORSTRIKEMV2/blob/8411d303a57775e7d5fb10c1775df3a52526bd80/Firmware/Color%20Strike%20M_V4.0.3.zip)
