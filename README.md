@@ -2,6 +2,10 @@
 
 ## Software Versions
 
+[Version 4.0.6](https://github.com/Chauvet-Pro/COLORSTRIKEMV2/blob/235a5ace7870c6851574984741c31a7440cf11f4/Firmware/V4.0.6.zip)
+- Increased the sACN universe limit from 256 to 32000
+- Fixed the ArtNet malformed packets issue
+   
 [Version 4.0.5](https://github.com/Chauvet-Pro/COLORSTRIKEMV2/blob/03188c18d6a1190fed321cab7a5c6c544351a7a8/Firmware/V4.0.5.zip)
 - Fixed bug with Beam FX not working correctly in 30CH Mode
 
