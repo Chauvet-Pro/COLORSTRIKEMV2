@@ -2,6 +2,11 @@
 
 ## Software Versions
 
+[V4.0.7](https://github.com/Chauvet-Pro/COLORSTRIKEMV2/blob/705287d3065a1b703f2dbfc2991e05da576cb4ba/Firmware/V4.0.7.zip)
+- Added the 96CH mode
+- When the plate priority is set to the pixels (channel 25 at 129-255), the values of the color masters (ch 10, 11, 12) are ignored completely and no longer act as an override
+- The strobe channel can always affect the fixture even when on pixel priority
+
 [Version 4.0.6](https://github.com/Chauvet-Pro/COLORSTRIKEMV2/blob/235a5ace7870c6851574984741c31a7440cf11f4/Firmware/V4.0.6.zip)
 - Increased the sACN universe limit from 256 to 32000
 - Fixed the ArtNet malformed packets issue
