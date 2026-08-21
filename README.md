@@ -2,7 +2,7 @@
 
 ## Software Versions
 
-When updating the COLOR STRIKE M to software version v4.0.7, the NET version may display as either 2.6 or 4.3 depending on the chip installed in the fixture. NET v2.6 applies to earlier production units, while NET v4.3 applies to newer units
+### When updating the COLOR STRIKE M to software version v4.0.7, the NET version may display as either 2.6 or 4.3 depending on the chip installed in the fixture. NET v2.6 applies to earlier production units, while NET v4.3 applies to newer units
 
 [V4.0.7](https://github.com/Chauvet-Pro/COLORSTRIKEMV2/blob/705287d3065a1b703f2dbfc2991e05da576cb4ba/Firmware/V4.0.7.zip)
 - Added the 96CH mode
